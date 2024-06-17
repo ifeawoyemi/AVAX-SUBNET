@@ -36,7 +36,7 @@ This Repository contains the solidity contract for the gameToken and also the va
 
 
 ## Authors
-  [@Abiodun](https://twitter.com/codeAngel_)
+  [@codeAngel_](https://twitter.com/codeAngel_)
 
 ## License
 
